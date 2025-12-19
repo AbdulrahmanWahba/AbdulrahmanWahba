@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdulrahman  and I'm a Data Analyst</p>
+<p align="left"> Data Analyst</p>
 
 ###
 
